@@ -1,0 +1,227 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HHG for TranslatePress\n"
+"POT-Creation-Date: 2025-12-12 14:15+0800\n"
+"PO-Revision-Date: 2025-12-12 14:17+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: hhg-for-translatepress.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: hhg-for-translatepress.php:272
+msgid "Google Gemini API Key"
+msgstr "谷歌Gemini API密钥"
+
+#: hhg-for-translatepress.php:275 hhg-for-translatepress.php:378
+#: hhg-for-translatepress.php:454
+msgid "Add your API Key here..."
+msgstr "在这里添加你的API密钥......"
+
+#: hhg-for-translatepress.php:293
+msgid "Gemini Model"
+msgstr "Gemini 模型"
+
+#: hhg-for-translatepress.php:295
+msgid "Gemini 2.5 Flash (Fast)"
+msgstr "Gemini 2.5 Flash (快速)"
+
+#: hhg-for-translatepress.php:296
+msgid "Gemini 2.5 Flash-Lite (Cheaper & Fast)"
+msgstr "Gemini 2.5 Flash-Lite（更便宜更快）"
+
+#: hhg-for-translatepress.php:297
+msgid "Gemini 3 Pro (Preview)"
+msgstr "Gemini 3 Pro (Preview)"
+
+#: hhg-for-translatepress.php:302
+msgid ""
+"Visit <a href=\"https://aistudio.google.com/apikey\" target=\"_blank"
+"\">Google AI Studio</a> to get your API key. Gemini 2.5 models offer the "
+"fastest translation speeds with optimized rate limits."
+msgstr ""
+"访问 <a href=\"https://aistudio.google.com/apikey\" target=\"_blank\">Google "
+"AI Studio</a> 获取您的 API 密钥。Gemini 2.5 型号提供最快的翻译速度和优化的速"
+"率限制。"
+
+#: hhg-for-translatepress.php:330
+msgid "Tencent Hunyuan SecretId"
+msgstr "腾讯混元 SecretId"
+
+#: hhg-for-translatepress.php:332
+msgid "Enter your SecretId..."
+msgstr "输入你的SecretId......"
+
+#: hhg-for-translatepress.php:337
+msgid "Tencent Hunyuan SecretKey"
+msgstr "腾讯混元SecretKey"
+
+#: hhg-for-translatepress.php:339
+msgid "Enter your SecretKey..."
+msgstr "输入你的SecretKey..."
+
+#: hhg-for-translatepress.php:342
+msgid "Tencent Hunyuan Model"
+msgstr "腾讯混元模型"
+
+#: hhg-for-translatepress.php:344
+msgid "Hunyuan Translation"
+msgstr "Hunyuan Translation"
+
+#: hhg-for-translatepress.php:345
+msgid "Hunyuan Translation Lite"
+msgstr "Hunyuan Translation Lite"
+
+#: hhg-for-translatepress.php:349
+msgid ""
+"Visit the <a href=\"https://console.cloud.tencent.com/hunyuan\" target="
+"\"_blank\">Tencent Hunyuan Console</a> for your API credentials. The Hunyuan "
+"model provides high-quality Chinese translation services."
+msgstr ""
+"访问 <a href=\"https://console.cloud.tencent.com/hunyuan\" target=\"_blank\">"
+"腾讯混元控制台</a> 获取您的API凭证。混元模型提供高质量的翻译服务。"
+
+#: hhg-for-translatepress.php:376
+msgid "OpenAI API Key"
+msgstr "OpenAI API 密钥"
+
+#: hhg-for-translatepress.php:394
+msgid "OpenAI API Endpoint"
+msgstr "OpenAI API 端点"
+
+#: hhg-for-translatepress.php:402
+msgid "OpenAI Model"
+msgstr "OpenAI模型"
+
+#: hhg-for-translatepress.php:404
+msgid "GPT-4o Mini (Hot)"
+msgstr "GPT-4o Mini (热门)"
+
+#: hhg-for-translatepress.php:405
+msgid "GPT-4o"
+msgstr "GPT-4o"
+
+#: hhg-for-translatepress.php:406
+msgid "GPT-4 Turbo"
+msgstr "GPT-4 Turbo"
+
+#: hhg-for-translatepress.php:407
+msgid "GPT-3.5 Turbo"
+msgstr "GPT-3.5 Turbo"
+
+#: hhg-for-translatepress.php:408
+msgid "Custom Models"
+msgstr "自定义模型"
+
+#: hhg-for-translatepress.php:417
+msgid "Enter your custom OpenAI model name"
+msgstr "输入你自定义的OpenAI模型名称"
+
+#: hhg-for-translatepress.php:422
+msgid ""
+"Visit <a href=\"https://platform.openai.com/api-keys\" target=\"_blank"
+"\">OpenAI Platform</a> to get your API key. GPT-4o models offer the fastest "
+"translation speeds with optimized performance."
+msgstr ""
+"访问 <a href=\"https://platform.openai.com/api-keys\" target=\"_blank"
+"\">OpenAI平台</a> 获取您的API密钥。GPT-4o模型提供最快的翻译速度和优化的性能。"
+
+#: hhg-for-translatepress.php:451
+msgid "ZhiPu AI API Key"
+msgstr "智谱 AI API 密钥"
+
+#: hhg-for-translatepress.php:472
+msgid "Translation Strategy"
+msgstr "翻译策略"
+
+#: hhg-for-translatepress.php:474
+msgid "General (Default)"
+msgstr "常规（默认）"
+
+#: hhg-for-translatepress.php:475
+msgid "Paraphrase (More Natural)"
+msgstr "意译（更自然）"
+
+#: hhg-for-translatepress.php:476
+msgid "Two Step (Review & Refine)"
+msgstr "两步（评测与精炼）"
+
+#: hhg-for-translatepress.php:477
+msgid "Three Step (Deep Analysis)"
+msgstr "三步（深度分析）"
+
+#: hhg-for-translatepress.php:478
+msgid "Reflection (Self-Correction)"
+msgstr "反思（自我纠正）"
+
+#: hhg-for-translatepress.php:479
+msgid "Chain of Thought (Reasoning)"
+msgstr "思维链（推理）"
+
+#: hhg-for-translatepress.php:486
+msgid ""
+"Visit the <a href=\"https://www.bigmodel.cn/invite?"
+"icode=BOAFyzK705RHkwZsGiYl40jPr3uHog9F4g5tjuOUqno%3D\" target=\"_blank"
+"\">ZhiPu AI</a> to get your API key. Select a strategy that best fits your "
+"content type."
+msgstr ""
+"访问 <a href=\"https://www.bigmodel.cn/invite?"
+"icode=BOAFyzK705RHkwZsGiYl40jPr3uHog9F4g5tjuOUqno%3D\" target=\"_blank"
+"\">ZhiPu AI</a> 获取您的API密钥。选择最适合你内容类型的策略。"
+
+#: hhg-for-translatepress.php:642
+msgid "Google Gemini AI"
+msgstr "谷歌 Gemini AI"
+
+#: hhg-for-translatepress.php:647
+msgid "Tencent Hunyuan"
+msgstr "腾讯混元 AI"
+
+#: hhg-for-translatepress.php:652
+msgid "OpenAI GPT"
+msgstr "OpenAI GPT"
+
+#: hhg-for-translatepress.php:657
+msgid "ZhiPu AI GLM"
+msgstr "智谱 AI"
+
+#: hhg-for-translatepress.php:679
+msgid ""
+"HHG for TranslatePress requires TranslatePress to be installed and activated."
+msgstr "HHG for TranslatePress 需要安装并激活 TranslatePress。"
+
+#. Plugin Name of the plugin/theme
+msgid "HHG for TranslatePress"
+msgstr "HHG for TranslatePress"
+
+#. Plugin URI of the plugin/theme
+msgid "https://huhonggang.com/hhg-for-translatepress/"
+msgstr "https://huhonggang.com/hhg-for-translatepress/"
+
+#. Description of the plugin/theme
+msgid ""
+"Google Gemini AI, OpenAI GPT, ZhiPu AI, The engine is integrated into the "
+"plugin TranslatePress as a translation source."
+msgstr ""
+"谷歌Gemini AI、OpenAI GPT、ZhiPu AI，腾讯混元翻译，集成到插件TranslatePress中"
+"作为翻译源。"
+
+#. Author of the plugin/theme
+msgid "huhonggang"
+msgstr "胡洪刚"
+
+#. Author URI of the plugin/theme
+msgid "https://huhonggang.com/"
+msgstr "https://huhonggang.com/"
